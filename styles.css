@@ -1,2 +1,14 @@
-
-/* Your CSS Code here. */
+ul{
+	list-style-type:none;
+	display:flex;
+	justify-content:space-between;
+	background-color:lightblue;
+}
+h1{
+	text-align:center;
+}
+div{
+	display:flex;
+	justify-content:space-between;
+	align-items:center;
+}
